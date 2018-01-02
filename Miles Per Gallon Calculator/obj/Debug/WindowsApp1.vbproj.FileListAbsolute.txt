@@ -1,0 +1,12 @@
+C:\Users\pinag\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\pinag\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\pinag\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\pinag\AppData\Local\Temporary Projects\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\pinag\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbprojResolveAssemblyReference.cache
+C:\Users\pinag\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\pinag\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\pinag\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.Cache
+C:\Users\pinag\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\pinag\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\pinag\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\pinag\AppData\Local\Temporary Projects\WindowsApp1\obj\Debug\WindowsApp1.pdb

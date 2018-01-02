@@ -1,0 +1,12 @@
+A:\Cincinnati State\.NET programming\Week Four & Five\Miles Per Gallon Calculator\Miles Per Gallon Calculator\bin\Debug\Miles Per Gallon Calculator.exe.config
+A:\Cincinnati State\.NET programming\Week Four & Five\Miles Per Gallon Calculator\Miles Per Gallon Calculator\bin\Debug\Miles Per Gallon Calculator.exe
+A:\Cincinnati State\.NET programming\Week Four & Five\Miles Per Gallon Calculator\Miles Per Gallon Calculator\bin\Debug\Miles Per Gallon Calculator.pdb
+A:\Cincinnati State\.NET programming\Week Four & Five\Miles Per Gallon Calculator\Miles Per Gallon Calculator\bin\Debug\Miles Per Gallon Calculator.xml
+A:\Cincinnati State\.NET programming\Week Four & Five\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.vbprojResolveAssemblyReference.cache
+A:\Cincinnati State\.NET programming\Week Four & Five\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\WindowsApp1.Resources.resources
+A:\Cincinnati State\.NET programming\Week Four & Five\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.vbproj.GenerateResource.Cache
+A:\Cincinnati State\.NET programming\Week Four & Five\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.vbproj.CoreCompileInputs.cache
+A:\Cincinnati State\.NET programming\Week Four & Five\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.exe
+A:\Cincinnati State\.NET programming\Week Four & Five\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.xml
+A:\Cincinnati State\.NET programming\Week Four & Five\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\Miles Per Gallon Calculator.pdb
+A:\Cincinnati State\.NET programming\Week Four & Five\Miles Per Gallon Calculator\Miles Per Gallon Calculator\obj\Debug\WindowsApp1.frmMPG.resources
